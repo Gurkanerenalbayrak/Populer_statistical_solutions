@@ -17,6 +17,8 @@ Problems Solved
 Statistical Solutions includes solutions for a variety of problems, including but not limited to:
 
 Simulated Battles: Explore strategies and outcomes in simulated battle scenarios.
+
 Exact Probabilities: Calculate precise probabilities for complex events.
+
 Single Trial Simulations: Simulate single trials and analyze outcomes.
 
